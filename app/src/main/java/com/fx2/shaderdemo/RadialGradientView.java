@@ -20,6 +20,9 @@ public class RadialGradientView extends View {
 
    int []  colors =  new int[]{Color.RED,Color.GREEN,Color.BLUE,Color.YELLOW};
     private Bitmap mBitMap;
+
+
+
     private int mHeight;
     private int mWidth;
 
