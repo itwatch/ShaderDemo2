@@ -38,6 +38,8 @@ public class RadialGradientView extends View {
 
         mBitMap = ((BitmapDrawable) getResources().getDrawable(R.drawable.xyjy2)).getBitmap();
 
+
+
         mHeight = mBitMap.getHeight();
         mWidth = mBitMap.getWidth();
 
